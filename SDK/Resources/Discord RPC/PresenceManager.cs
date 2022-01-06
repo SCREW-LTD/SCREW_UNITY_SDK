@@ -1,9 +1,6 @@
 ﻿using System;
 using UnityEngine;
 using UnityEngine.Events;
-using Hashtable = ExitGames.Client.Photon.Hashtable; //Replace default Hashtables with Photon hashtables
-using ExitGames.Client.Photon;
-using Photon.Pun;
 
 namespace DiscordPresence
 {
